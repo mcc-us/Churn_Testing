@@ -1,10 +1,13 @@
-<center>
-![MA-Dell Telephone](../assets/ADD-Logo-200x200.jpg)
-*MA-Dell Telephone*
-</center>
+
+<p align="center">
+  <img src="assets/ADD-Logo-200x200.jpg" width=120/>
+</p>
 
 # Churn_Testing
-This report investigates the retention/churn of the fictional company AD&D.
+
+>This report investigates the retention/churn of the fictional telecom company AD&D.
+
+---
 
 Tests run for this analysis are:
 1. PCA
