@@ -22,7 +22,7 @@ Tests run for this analysis are:
 ```
 ..
 ├── assets
-│   ├── ADD-Logo-200x200.jpg
+│   ├── ADD-Logo.jpg
 │   ├── churn_eda_profiling_report.html
 │   └── config_default.yml
 ├── data
@@ -37,8 +37,8 @@ Tests run for this analysis are:
 │   ├── ADD_EDA_Pearson_s_Pairwise_Correlation.ipynb
 │   ├── ADD_EDA_Pie_Chart.ipynb
 │   ├── ADD_Initial_Data_Analysis.ipynb
-│   ├── ADD_PCA_Bigram_Using_Erdogant_Library.ipynb
-│   ├── ADD_PCA_Bigram_Using_skelarn.decomposition_Plotly.ipynb
+│   ├── [ADD_PCA_Bigram_Using_Erdogant_Library.ipynb](ADD_PCA_Bigram_Using_skelarn.decomposition_Plotly.ipynb)
+│   ├── [ADD_PCA_Bigram_Using_skelarn.decomposition_Plotly.ipynb](ADD_PCA_Bigram_Using_Erdogant_Library.ipynb)
 │   ├── ADD_Testing Pandas Profiling Library For EDA.ipynb
 │   ├── Churn_Logistic_Regression_Modeling.ipynb
 │   ├── Logistic_Regression_Grid_Search.ipynb
