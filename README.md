@@ -14,11 +14,6 @@ This analysis aims to determine:
 1. What factors are important for increasing retention? 
 2. Can a mathematical model be developed for monthly prediction?
 
-
-Tests run for this analysis are:
-1. [PCA Bigram](ADD_PCA_Bigram_Using_skelarn.decomposition_Plotly.ipynb)
-2. [PCA Bigram Using PCA](ADD_PCA_Bigram_Using_Erdogant_Library.ipynb)
-
 ```
 ..
 ├── assets
