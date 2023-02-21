@@ -4,15 +4,16 @@
 
 ---
 
+<p align="center">
+  <img src="assets/ADD-Logo.jpg" width=120/>
+</p>
+
 The loss of AD&D customers to competition is a constant problem.
 
 This analysis e aims to determine:
 1. What factors are important for increasing retention? 
 2. Can a mathematical model be developed for monthly prediction?
 
-<p align="center">
-  <img src="assets/ADD-Logo-200x200.jpg" width=120/>
-</p>
 
 Tests run for this analysis are:
 1. [PCA Bigram](ADD_PCA_Bigram_Using_skelarn.decomposition_Plotly.ipynb)
