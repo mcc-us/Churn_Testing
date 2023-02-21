@@ -1,44 +1,43 @@
-
-<p align="center">
-  <img src="assets/ADD-Logo-200x200.jpg" width=120/>
-</p>
-
 # Churn_Testing
 
 >This report investigates the retention/churn of the fictional telecom company AD&D.
 
 ---
 
+<p align="center">
+  <img src="assets/ADD-Logo-200x200.jpg" width=120/>
+</p>
+
 Tests run for this analysis are:
-1. PCA
-2. More
+1. [PCA Bigram](ADD_PCA_Bigram_Using_skelarn.decomposition_Plotly.ipynb)
+2. [PCA Bigram Using PCA](ADD_PCA_Bigram_Using_Erdogant_Library.ipynb)
 
 ```
-.
+..
 ├── assets
 │   ├── ADD-Logo-200x200.jpg
-│   └── config_minimal.yaml
+│   ├── churn_eda_profiling_report.html
+│   └── config_default.yml
 ├── data
 │   ├── processed
 │   │   └── mcc_clean_churn.csv
 │   └── raw
 │       ├── churn.all2
 │       └── churn.all2.tar.bz2
-├── libraries
 ├── notebooks
 │   ├── 1_Telecommunications_Churn_Analysis_And_Modeling.ipynb
+│   ├── ADD_EDA_Histograms.ipynb
+│   ├── ADD_EDA_Pearson_s_Pairwise_Correlation.ipynb
+│   ├── ADD_EDA_Pie_Chart.ipynb
 │   ├── ADD_Initial_Data_Analysis.ipynb
-│   ├── ADD_PCA_Bigram_Example_of_Churn_Data_Using_Plotly.ipynb
+│   ├── ADD_PCA_Bigram_Using_Erdogant_Library.ipynb
+│   ├── ADD_PCA_Bigram_Using_skelarn.decomposition_Plotly.ipynb
+│   ├── ADD_Testing Pandas Profiling Library For EDA.ipynb
 │   ├── Churn_Logistic_Regression_Modeling.ipynb
-│   ├── Erdogant_Library_PCA_Churn_Data.ipynb
-│   ├── Histograms_Of_Clean_Churn_Data.ipynb
 │   ├── Logistic_Regression_Grid_Search.ipynb
-│   ├── Pearson_s_Pairwise_Correlation.ipynb
 │   ├── Random_Forest_Model.ipynb
-│   ├── Testing Pandas Profiling Library For EDA.ipynb
 │   └── XGBoost_Model.ipynb
 └── README.md
 
-5 directories, 18 files
-
+5 directories, 19 files
 ```
