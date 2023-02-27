@@ -1,12 +1,13 @@
 # Churn_Testing
 
+<p align="center">
+  <img src="assets/ADD-Logo.jpg" width=120/>
+</p>
+
 >This report investigates the retention/churn of the fictional telecom company AD&D.
 
 ---
 
-<p align="center">
-  <img src="assets/ADD-Logo.jpg" width=120/>
-</p>
 
 The loss of AD&D customers to competition is a constant problem.
 
