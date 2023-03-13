@@ -1,4 +1,4 @@
-# Churn_Testing
+# AD&D Churn Analysis & Modeling
 
 <p align="center">
   <img src="assets/ADD-Logo.jpg" width=120/>
