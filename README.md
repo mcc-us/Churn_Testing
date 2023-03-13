@@ -9,11 +9,12 @@
 ---
 
 
-The loss of AD&D customers to competition is a constant problem.
+The [AD&D Churn Analysis and Modeling](https://github.com/mcc-us/Churn_Testing/blob/main/notebooks/1_Telecommunications_Churn_Analysis_And_Modeling.ipynb) report describes: 
 
-This analysis aims to determine:
-1. What factors are important for increasing retention? 
-2. Can a mathematical model be developed for monthly prediction?
+1. Factors that are important for increasing retention
+
+2. A mathematical model developed for monthly prediction of churn
+
 
 ```
 ..
