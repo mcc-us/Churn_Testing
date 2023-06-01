@@ -1,20 +1,18 @@
 # AD&D Churn Analysis & Modeling
 
-<p align="center">
-  <img src="assets/ADD-Logo.jpg" width=120/>
-</p>
-
->This report investigates the retention/churn of the fictional telecom company AD&D.
-
----
-
-
-The [AD&D Churn Analysis and Modeling](https://github.com/mcc-us/Churn_Testing/blob/main/notebooks/1_Telecommunications_Churn_Analysis_And_Modeling.ipynb) report describes: 
+This [AD&D Churn Analysis and Modeling](https://github.com/mcc-us/Churn_Testing/blob/main/notebooks/1_Telecommunications_Churn_Analysis_And_Modeling.ipynb) report describes: 
 
 1. Factors that are important for increasing retention
 
 2. A mathematical model developed for monthly prediction of churn
 
+---
+
+<p align="center">
+  <img src="assets/ADD-Logo.jpg" width=120/>
+</p>
+
+>This report investigates the retention/churn of the fictional telecom company AD&D.
 
 ```
 ..
